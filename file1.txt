@@ -1,0 +1,3 @@
+first file
+new line
+next line
